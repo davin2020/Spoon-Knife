@@ -11,3 +11,5 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 Updated Readme on Local test-branch after running `git checkout --track origin/test-branch`
 
 MORE NOTES in test-branch
+
+ADDED NOTES in change-branch
