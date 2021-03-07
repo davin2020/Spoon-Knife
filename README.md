@@ -9,3 +9,5 @@ After forking this repository, you can make some changes to the project, and sub
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
 Updated Readme on Local test-branch after running `git checkout --track origin/test-branch`
+
+MORE NOTES in test-branch
